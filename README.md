@@ -61,9 +61,5 @@ Now, to create your GitHub Gist!
 
 # when finished, click the 'Create public gist' button
 
+Darryl Green Jr
 ```
-
-
-
-
-
