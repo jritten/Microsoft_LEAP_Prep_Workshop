@@ -1,8 +1,11 @@
 ## [Microsoft_LEAP_Prep_Workshop](https://github.com/jritten/Microsoft_LEAP_Prep_Workshop)
+
 Git, GitHub & Markdown, oh my!
 
 ### [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ### [Markdown Guide](https://www.markdownguide.org/getting-started)
+
 ### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ```bash
@@ -61,9 +64,5 @@ Now, to create your GitHub Gist!
 
 # when finished, click the 'Create public gist' button
 
+## Malcolm
 ```
-
-
-
-
-
